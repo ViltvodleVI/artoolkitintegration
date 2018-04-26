@@ -15,7 +15,6 @@ public class ArToolkitMarkerDetection implements MarkerDetection, CameraEventLis
     AndroidApplication androidLauncher;
     PreferenceManager preferenceManager;
 
-    //TODO Aggiungere is running nell'interfaccia oppure interrogare lo stato del servizio!
     public ArToolkitMarkerDetection(AndroidApplication androidLauncher) {
         this.androidLauncher = androidLauncher;
 
