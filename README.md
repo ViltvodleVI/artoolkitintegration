@@ -1,4 +1,4 @@
-# Artoolkit Integration
+# LibGDX\Artoolkit Integration
 
 Just a simple ARToolkit/Libgdx integration.
 
