@@ -1,4 +1,4 @@
-#Artoolkit Integration
+# Artoolkit Integration
 
 Just a simple ARToolkit/Libgdx integration.
 
@@ -7,8 +7,8 @@ Just a simple ARToolkit/Libgdx integration.
 - TrancsendentAR: https://glud.github.io/trascendentAR
 
 
-####Example
-#####Adding a marker
+#### Example
+##### Adding a marker
 
 
 ```java
@@ -22,7 +22,7 @@ public void create(){
 	...
 	}
 ```
-#####Query marker transform
+##### Query marker transform
 
 
 ```java
@@ -63,4 +63,4 @@ public void create(){
         }
     }
 ``` 
-###END
+### END
