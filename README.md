@@ -6,24 +6,9 @@ Just a simple ARToolkit/Libgdx integration.
 - LibGDX: https://libgdx.badlogicgames.com
 
 Inspired by:
-- TrancsendentAR: https://glud.github.io/trascendentAR
+- TranscendentAR: https://glud.github.io/trascendentAR
 
 
-#### Example
-##### Adding a marker
-
-
-```java
-public ArtoolkitIntegration(MarkerDetection markerdetection){
-	this.markerDetection = markerDetection;
-}
-
-@Override
-public void create(){
-	this.markerDetection.addMarker("single;markername.patt; markerSize");
-	...
-	}
-```
 ##### Query marker transform
 
 
