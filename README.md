@@ -10,8 +10,8 @@ Inspired by:
 
 # Contributors
 
-TomD88
-Margherita42
+- TomD88
+- Margherita42
 
 ##### Query marker transform
 
