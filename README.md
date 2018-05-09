@@ -1,6 +1,6 @@
 # LibGDX\Artoolkit Integration
 
-Just a simple ARToolkit/Libgdx integration.
+ARToolkit/Libgdx integration.
 
 - ARToolkit: http://www.artoolkitx.org
 - LibGDX: https://libgdx.badlogicgames.com
@@ -8,6 +8,10 @@ Just a simple ARToolkit/Libgdx integration.
 Inspired by:
 - TranscendentAR: https://glud.github.io/trascendentAR
 
+# Contributors
+
+TomD88
+Margherita42
 
 ##### Query marker transform
 
