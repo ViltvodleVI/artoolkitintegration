@@ -75,6 +75,7 @@ public class ArToolkitMarkerDetection implements MarkerDetection, CameraEventLis
     public void cameraPreviewStarted(int width, int height, int rate, String pixelFormat, int cameraIndex, boolean cameraIsFrontFacing) {
         this.initializeNative(Gdx.files.getLocalStoragePath() +  "Data");
         this.initializeAr(width , height, rate,pixelFormat, "camera_para.dat", 0, cameraIsFrontFacing);
+        addMarker("single;hiro.patt;80");
     }
 
 

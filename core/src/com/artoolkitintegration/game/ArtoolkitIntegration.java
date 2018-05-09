@@ -36,8 +36,6 @@ public class ArtoolkitIntegration extends ApplicationAdapter {
     @Override
     public void create() {
 
-        markerDetection.addMarker("single;hiro.patt;80");
-
         arCamera = new ARCamera(67, Gdx.graphics.getWidth(), Gdx.graphics.getHeight());
         arCamera.position.set(0f, 0f, 1f);
         arCamera.lookAt(0, 0, 0);
