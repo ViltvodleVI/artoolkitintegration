@@ -4,6 +4,8 @@ Just a simple ARToolkit/Libgdx integration.
 
 - ARToolkit: http://www.artoolkitx.org
 - LibGDX: https://libgdx.badlogicgames.com
+
+Inspired by:
 - TrancsendentAR: https://glud.github.io/trascendentAR
 
 
